@@ -1,5 +1,3 @@
-Claro, aquí tienes un ejemplo de un README.md para un proyecto de GitHub con fines educativos sobre algoritmos de clustering como K-Means, Clustering Jerárquico y DBSCAN.
-
 🤖 Explorando Algoritmos de Clustering: K-Means, Jerárquico y DBSCAN
 ¡Bienvenido a este repositorio educativo! Este proyecto está diseñado para ser una introducción práctica y visual a tres de los algoritmos de clustering más populares y fundamentales en el aprendizaje no supervisado: K-Means, Clustering Jerárquico y DBSCAN.
 
